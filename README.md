@@ -1,8 +1,4 @@
-<h2><a href="https://github.com/ther0ok1eboy">I' am ther0ok1eboy!<img src="https://raw.githubusercontent.com/ther0ok1eboy/ther0ok1eboy/master/crino.gif" align="left" width="100px" height="100px" /></a>🌱</h2>
-
-<p>
-  <img src="https://weather-icon.getloli.com/@shanghai?v=1" align="right">
-</p>
+<h2><a href="https://github.com/ther0ok1eboy"><img src="https://raw.githubusercontent.com/ther0ok1eboy/ther0ok1eboy/master/crino.gif" align="left" width="30px" height="30px" /></a>I' am ther0ok1eboy! 🌱</h2>
 
 #### Platform & Tools
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme?theme=asoul" height="100" align="right"></a>
