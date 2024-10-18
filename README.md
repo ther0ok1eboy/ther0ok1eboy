@@ -10,7 +10,7 @@
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 #### Languages & Frameworks
-<img src="https://raw.githubusercontent.com/ther0ok1eboy/ther0ok1eboy/master/crino.gif" align="right" width="100px" height="100px" />
+<a href="#"><img src="https://raw.githubusercontent.com/ther0ok1eboy/ther0ok1eboy/master/crino.gif" align="right" width="100px" height="100px" /></a>
 [![](https://img.shields.io/badge/-Webpack-8dd6f9?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org/)
 [![](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](https://www.docker.com/)
