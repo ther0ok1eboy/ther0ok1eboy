@@ -1,8 +1,8 @@
 <h2><a href="https://github.com/ther0ok1eboy"><img src="https://raw.githubusercontent.com/ther0ok1eboy/ther0ok1eboy/master/sayhi.svg" align="left" /></a>🌱</h2>
 
-<!--<p>
+<p>
   <img src="https://weather-icon.getloli.com/@shanghai?v=1" align="right">
-</p>-->
+</p>
 
 #### Platform & Tools
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme?theme=asoul" height="100" align="right"></a>
