@@ -1,4 +1,4 @@
-<h2><a href="https://github.com/ther0ok1eboy"><img src="https://raw.githubusercontent.com/ther0ok1eboy/ther0ok1eboy/master/crino.gif" align="left" /></a>🌱</h2>
+<h2><a href="https://github.com/ther0ok1eboy">I' am ther0ok1eboy!<img src="https://raw.githubusercontent.com/ther0ok1eboy/ther0ok1eboy/master/crino.gif" align="left" width="100px" height="100px" /></a>🌱</h2>
 
 <p>
   <img src="https://weather-icon.getloli.com/@shanghai?v=1" align="right">
