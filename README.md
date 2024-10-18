@@ -1,4 +1,4 @@
-<h2><a href="https://github.com/journey-ad"><img src="https://raw.githubusercontent.com/journey-ad/journey-ad/master/sayhi.svg" align="left" /></a>🌱</h2>
+<h2><a href="https://github.com/ther0ok1eboy"><img src="https://raw.githubusercontent.com/ther0ok1eboy/ther0ok1eboy/master/sayhi.svg" align="left" /></a>🌱</h2>
 
 <!--<p>
   <img src="https://weather-icon.getloli.com/@shanghai?v=1" align="right">
@@ -50,7 +50,7 @@
 
 ##### ⬇️**点击下方图片留言**⬇️
 
-[![](https://chat.getloli.com/room/@journey-ad.github/svg?width=600&height=280&limit=20&theme=light&title=journey-ad@github:%20~&fontSize=13)](https://chat.getloli.com/room/@journey-ad.github?title=JAD%E7%9A%84Github%E7%95%99%E8%A8%80%E6%9D%BF)
+[![](https://chat.getloli.com/room/@journey-ad.github/svg?width=600&height=280&limit=20&theme=light&title=ther0ok1eboy@github:%20~&fontSize=13)](https://chat.getloli.com/room/@journey-ad.github?title=JAD%E7%9A%84Github%E7%95%99%E8%A8%80%E6%9D%BF)
 
 <table>
 <tr>
@@ -81,7 +81,7 @@ HTML            🕓 25m    ▌░░░░░░░░░░░░░░░░�
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 
-[powered by steam-box](https://github.com/journey-ad/steam-box)
+[powered by steam-box](https://github.com/)
 
 </td>
 </tr>
