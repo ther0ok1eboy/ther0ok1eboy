@@ -61,7 +61,7 @@ HTML            🕓 25m    ▌░░░░░░░░░░░░░░░░�
 <!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
 
-[powered by waka-box-go](https://github.com/journey-ad/waka-box-go)
+[powered by waka-box-go](https://gist.github.com/ther0ok1eboy/593d0f8df0b5a0d0b00299c2041b9640)
 
 </td>
 <td valign="top" width="50%">
