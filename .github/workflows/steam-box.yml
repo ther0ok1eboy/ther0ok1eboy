@@ -14,8 +14,8 @@ jobs:
     name: Update-steam-playtime
     runs-on: ubuntu-latest
     env:
-      GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      GIST_ID: 62fa160542e61ac240820bc0b02b5632
+      GH_TOKEN: ${{ secrets.PR_TOKEN }}
+      GIST_ID: 770f65bb942c7d8e3deec65901e26949
       STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
       STEAM_ID: ${{ secrets.STEAM_ID }}
       UPDATE_OPTION: GIST_AND_MARKDOWN
@@ -32,7 +32,7 @@ jobs:
       - uses: actions/setup-go@v2
       - name: Clone and run steam-box
         run: |-
-          git clone https://github.com/journey-ad/steam-box.git
+          git clone https://github.com/ther0ok1eboy/steam-box.git
           cd steam-box && go build -o steam ./cmd/box/main.go
           mv ./steam ../ && cd .. && rm -rf steam-box/
       - name: Commit and push
