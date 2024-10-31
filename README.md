@@ -4,11 +4,11 @@
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme?theme=asoul" height="100" align="right"></a>
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=for-the-badge&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/macOS-Monterey-292e33?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
-[![](https://img.shields.io/badge/Windows-11-4e9eee?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)   
-[![](https://img.shields.io/badge/Samsung-S20-2E77BC?style=for-the-badge&logo=android&logoColor=ffffff)](https://www.samsung.com/us/app/mobile/galaxy-s20-5g/)
-[![](https://img.shields.io/badge/iPhone-13%20Pro-999999?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/)   
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-
+[![](https://img.shields.io/badge/Windows-10-4e9eee?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)   
+[![](https://img.shields.io/badge/Redmi-K70-2E77BC?style=for-the-badge&logo=android&logoColor=ffffff)](https://www.samsung.com/us/app/mobile/galaxy-s20-5g/)
+[![](https://img.shields.io/badge/iPhone-15%20Pro-999999?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/)   
+[![](https://img.shields.io/badge/IDE-Neovim-blue?style=for-the-badge&logo=neovim&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/IDE-intellij%20idea-blue?style=for-the-badge&logo=intellij-idea&logoColor=ffffff)](https://code.visualstudio.com/)
 #### Languages & Frameworks
 <a href="#"><img src="https://raw.githubusercontent.com/ther0ok1eboy/ther0ok1eboy/master/crino.gif" align="right" width="100px" height="100px" /></a>
 [![](https://img.shields.io/badge/-Webpack-8dd6f9?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org/)
@@ -31,17 +31,7 @@
 [![](https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 
-<!--
-#### Toys
-[AIGC收藏夹](https://aigc.getloli.com/)
-
-#### Console&Game
-![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=for-the-badge&logo=nintendo%20switch&logoColor=ffffff)
-[![](https://img.shields.io/badge/-PlayStation%204-0070d1?style=for-the-badge&logo=playstation&logoColor=ffffff)](https://psnine.com/psnid/journey-ad)
-[![](https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/journey_ad)
--->
-
-##### ⬇️**点击下方图片留言**⬇️
+##### ⬇️**Click on the image below to leave a comment** ⬇️
 
 [![](https://chat.getloli.com/room/@journey-ad.github/svg?width=600&height=280&limit=20&theme=light&title=ther0ok1eboy@github:%20~&fontSize=13)](https://chat.getloli.com/room/@journey-ad.github?title=JAD%E7%9A%84Github%E7%95%99%E8%A8%80%E6%9D%BF)
 
@@ -58,7 +48,6 @@ Bash        🕓 4m  ███░░░░░░░░░░░░░░░░�
 kitty       🕓 0s  ▎░░░░░░░░░░░░░░░░░░░░░░░░░░░░  1.2%
 IDEA_MODULE 🕓 0s  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.0%
 ```
-<!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
 
 [powered by waka-box-go](https://github.com/ther0ok1eboy/waka-box-go)
@@ -71,7 +60,6 @@ IDEA_MODULE 🕓 0s  ░░░░░░░░░░░░░░░░░░░�
 ```text
 🚫 啊哦，最近好像没有玩过游戏呢
 ```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 
 [powered by steam-box](https://github.com/)
@@ -80,8 +68,7 @@ IDEA_MODULE 🕓 0s  ░░░░░░░░░░░░░░░░░░░�
 </tr>
 </table>
 
-<!--
-**journey-ad/journey-ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ther0ok1eboy/ther0ok1eboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -93,4 +80,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
