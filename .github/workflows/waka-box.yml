@@ -1,7 +1,6 @@
 name: Update wakatime stats
 
 on:
-  workflow_dispatch:
   push:
     branches: [master]
   pull_request:
@@ -18,7 +17,7 @@ jobs:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
       UPDATE_OPTION: GIST_AND_MARKDOWN
       MARKDOWN_FILE: README.md
-      GIST_ID: a074b1d99d36db5b72c8ef9c1436a074
+      GIST_ID: 593d0f8df0b5a0d0b00299c2041b9640
       GIST_BARSTYLE: SOLIDLT
       GIST_BARLENGTH: -1
       GIST_TIMESTYLE: SHORT
@@ -34,13 +33,14 @@ jobs:
       - uses: actions/setup-go@v2
       - name: Clone and run waka-box
         run: |-
-          git clone https://github.com/journey-ad/waka-box-go.git
+          git clone https://github.com/ther0ok1eboy/waka-box-go.git 
           cd waka-box-go && go build -o waka ./cmd/box/main.go
           mv ./waka ../ && cd .. && rm -rf waka-box-go/
+
       - name: Commit and push
         run: |-
           ./waka
           git config --global user.email "bot@github.com" && git config --global user.name "Waka-Bot"
           git diff
           git add README.md && git commit -m ":memo: update profile" || exit 0
-          git pull --rebase && git push
+          git pull && git push
