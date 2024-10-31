@@ -57,10 +57,15 @@ kitty       🕓 0s  ▏░░░░░░░░░░░░░░░░░░�
 <td valign="top" width="50%">
 
 <!-- steam-box start -->
-#### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
+#### <a href="https://gist.github.com/770f65bb942c7d8e3deec65901e26949" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🚫 啊哦，最近好像没有玩过游戏呢
+🎮 StarBreak                        🕘 1095 hrs 59 mins
+🎮 Dragon Bros                      🕘 13 hrs 1 mins
+🎮 Yu-Gi-Oh! Duel Links             🕘 4 hrs 27 mins
+🎮 Trove                            🕘 1 hrs 6 mins
+🎮 Battle for Blood - Epic battles within 30 seconds! 🕘 0 hrs 4 mins
 ```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 
 [powered by steam-box](https://github.com/)
