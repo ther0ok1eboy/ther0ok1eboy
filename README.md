@@ -68,7 +68,7 @@ kitty       🕓 0s  ▏░░░░░░░░░░░░░░░░░░�
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 
-[powered by steam-box](https://github.com/)
+[powered by steam-box](https://github.com/ther0ok1eboy/steam-box)
 
 </td>
 </tr>
