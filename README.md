@@ -59,7 +59,6 @@ Other 🕓 21h27m ████████████████████�
 🎮 Dragon Bros                      🕘 13 hrs 1 mins
 🎮 Yu-Gi-Oh! Duel Links             🕘 4 hrs 27 mins
 🎮 Trove                            🕘 1 hrs 6 mins
-🎮 Battle for Blood - Epic battles within 30 seconds! 🕘 0 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
