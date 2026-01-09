@@ -60,6 +60,7 @@ YAML  🕓 0s    ░░░░░░░░░░░░░░░░░░░░░
 🎮 Dragon Bros                      🕘 13 hrs 1 mins
 🎮 Yu-Gi-Oh! Duel Links             🕘 4 hrs 27 mins
 🎮 Trove                            🕘 1 hrs 6 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 1 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
