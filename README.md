@@ -59,7 +59,7 @@ YAML  🕓 0s    ░░░░░░░░░░░░░░░░░░░░░
 🎮 StarBreak                        🕘 1095 hrs 59 mins
 🎮 Dragon Bros                      🕘 13 hrs 1 mins
 🎮 Yu-Gi-Oh! Duel Links             🕘 4 hrs 27 mins
-🍳 PUBG: BATTLEGROUNDS              🕘 2 hrs 1 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 2 hrs 57 mins
 🎮 Trove                            🕘 1 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
