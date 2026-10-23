@@ -55,7 +55,7 @@ Other 🕓 39m █████████████████████�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/770f65bb942c7d8e3deec65901e26949" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 StarBreak                        🕘 1100 hrs 32 mins
+🎮 StarBreak                        🕘 1100 hrs 59 mins
 🎮 Dragon Bros                      🕘 13 hrs 1 mins
 🎮 Yu-Gi-Oh! Duel Links             🕘 4 hrs 27 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 2 hrs 57 mins
